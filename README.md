@@ -9,7 +9,7 @@ The goal is to develop hands-on experience in protecting critical business infra
 This project builds upon my previous [Active Directory Homelab - Nexora Technologies](https://github.com/JefferyGitsIt/active-directory-homelab/tree/main).
 
 ## Project Objectives
-- [ ] Understand Windows Server backup and disaster recovery fundamentals.
+- [x] Understand Windows Server backup and disaster recovery fundamentals.
 - [ ] Install and configure Windows Server Backup.
 - [ ] Configure dedicated backup storage.
 - [ ] Create and verify departmental file backups.
@@ -54,7 +54,7 @@ The project uses an existing Active Directory environment hosted on Microsoft Hy
 ## Lab Roadmap
 | Lab | Topic | Status |
 | :--- | :--- | :--- |
-| 01 | Backup and Disaster Recovery Fundamentals | Not Started |
+| 01 | Backup and Disaster Recovery Fundamentals | Completed |
 | 02 | Windows Server Backup Installation | Not Started |
 | 03 | FILE01 Backup Storage and Configuration | Not Started |
 | 04 | File Backup and Recovery Testing | Not Started |
@@ -91,6 +91,21 @@ These disks will be separate from the operating system and primary data volumes.
 
 **Important:** Because the virtual disks reside on the same physical storage device, this lab configuration does not protect against physical host or disk failure. A production backup strategy should include independent backup storage, offsite copies, and regular recovery testing.
 
+## Documentation
+Detailed lab documentation will be added as the project progresses.
+
+| Lab | Documentation |
+| 01 | [Lab 01 - Backup and Disaster Recovery Fundamentals](lab/01.md) |
+| 02 | Planned |
+| 03 | Planned |
+| 04 | Planned |
+| 05 | Planned |
+| 06 | Planned |
+| 07 | Planned |
+| 08 | Planned |
+| 09 | Planned |
+| 10 | Planned |
+
 ## Expected Learning Outcomes
 Upon completing this project, I aim to demonstrate practical knowledge of:
 
@@ -105,7 +120,7 @@ Upon completing this project, I aim to demonstrate practical knowledge of:
 
 ## Project Status
 
-Status: **Planning / Not Started**
+Status: **In Progress**
 
 The initial Active Directory infrastructure is already deployed and operational. Backup configuration and recovery testing will be documented in this repository as each lab is completed.
 
