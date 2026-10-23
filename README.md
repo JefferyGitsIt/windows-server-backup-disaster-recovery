@@ -10,7 +10,7 @@ This project builds upon my previous [Active Directory Homelab - Nexora Technolo
 
 ## Project Objectives
 - [x] Understand Windows Server backup and disaster recovery fundamentals.
-- [ ] Install and configure Windows Server Backup.
+- [x] Install and configure Windows Server Backup.
 - [ ] Configure dedicated backup storage.
 - [ ] Create and verify departmental file backups.
 - [ ] Restore deleted files from backups.
@@ -55,7 +55,7 @@ The project uses an existing Active Directory environment hosted on Microsoft Hy
 | Lab | Topic | Status |
 | :--- | :--- | :--- |
 | 01 | Backup and Disaster Recovery Fundamentals | Completed |
-| 02 | Windows Server Backup Installation | Not Started |
+| 02 | Windows Server Backup Installation | Completed |
 | 03 | FILE01 Backup Storage and Configuration | Not Started |
 | 04 | File Backup and Recovery Testing | Not Started |
 | 05 | Active Directory System State Backup | Not Started |
@@ -97,7 +97,7 @@ Detailed lab documentation will be added as the project progresses.
 | Lab | Documentation |
 | :--- | :--- |
 | 01 | [Lab 01 - Backup and Disaster Recovery Fundamentals](lab/01.md) |
-| 02 | Planned |
+| 02 | [Lab 02 - Windows Server Backup Installation](lab/02.md) |
 | 03 | Planned |
 | 04 | Planned |
 | 05 | Planned |
