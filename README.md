@@ -95,6 +95,7 @@ These disks will be separate from the operating system and primary data volumes.
 Detailed lab documentation will be added as the project progresses.
 
 | Lab | Documentation |
+| :--- | :--- |
 | 01 | [Lab 01 - Backup and Disaster Recovery Fundamentals](lab/01.md) |
 | 02 | Planned |
 | 03 | Planned |
