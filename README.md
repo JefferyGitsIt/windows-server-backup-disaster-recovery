@@ -16,7 +16,7 @@ This project builds upon my previous [Active Directory Homelab - Nexora Technolo
 - [x] Restore deleted files from backups.
 - [x] Create and Verify an Active Directory system state backup.
 - [x] Recover a deleted Active Directory object using Active Directory Recycle Bin.
-- [ ] Configure and test full server backups.
+- [x] Configure and verify a bare-metal-capable server backup.
 - [ ] Perform a controlled disaster recovery simulation.
 - [ ] Verify backup integrity and review recovery logs.
 - [ ] Document recovery procedures, security considerations, and lessons learned.
@@ -60,7 +60,7 @@ The project uses an existing Active Directory environment hosted on Microsoft Hy
 | 04 | File Backup and Recovery Testing | Completed |
 | 05 | Active Directory System State Backup | Completed |
 | 06 | Active Directory Object Recovery | Completed |
-| 07 | Full Server Backup Configuration | Not Started |
+| 07 | Full Server Backup Configuration | Completed |
 | 08 | Disaster Recovery Simulation | Not Started |
 | 09 | Backup Verification and Monitoring | Not Started |
 | 10 | Security Review and Lessons Learned | Not Started |
@@ -102,7 +102,7 @@ Detailed lab documentation will be added as the project progresses.
 | 04 | [Lab 04 - File Backup and Recovery Testing](lab/04.md) |
 | 05 | [Lab 05 - Active Directory System State Backup](lab/05.md) |
 | 06 | [Lab 06 - Active Directory Object Recovery](lab/06.md) |
-| 07 | Planned |
+| 07 | [Lab 07 - Full Server Backup Configuration](lab/07.md) |
 | 08 | Planned |
 | 09 | Planned |
 | 10 | Planned |
