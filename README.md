@@ -19,7 +19,7 @@ This project builds upon my previous [Active Directory Homelab - Nexora Technolo
 - [x] Configure and verify a bare-metal-capable server backup.
 - [x] Perform a controlled disaster recovery simulation.
 - [x] Verify backup integrity and review recovery logs.
-- [ ] Document recovery procedures, security considerations, and lessons learned.
+- [x] Conduct a backup infrastructure security review.
 
 ## Lab Environment
 The project uses an existing Active Directory environment hosted on Microsoft Hyper-V.
@@ -63,7 +63,7 @@ The project uses an existing Active Directory environment hosted on Microsoft Hy
 | 07 | Full Server Backup Configuration | Completed |
 | 08 | Disaster Recovery Simulation | Completed |
 | 09 | Backup Verification and Monitoring | Completed |
-| 10 | Security Review and Lessons Learned | Not Started |
+| 10 | Security Review | Completed |
 
 Each lab will include configuration steps, commands where applicable, screenshots, verification results, and lessons learned.
 
@@ -105,7 +105,7 @@ Detailed lab documentation will be added as the project progresses.
 | 07 | [Lab 07 - Full Server Backup Configuration](lab/07.md) |
 | 08 | [Lab 08 - Disaster Recovery Simulation](lab/08.md) |
 | 09 | [Lab 09 - Backup Verification and Monitoring](lab/09.md) |
-| 10 | Planned |
+| 10 | [Lab 10 - Security Review](lab/10.md) |
 
 ## Expected Learning Outcomes
 Upon completing this project, I aim to demonstrate practical knowledge of:
@@ -121,7 +121,7 @@ Upon completing this project, I aim to demonstrate practical knowledge of:
 
 ## Project Status
 
-Status: **In Progress**
+Status: **Completed**
 
 The initial Active Directory infrastructure is already deployed and operational. Backup configuration and recovery testing will be documented in this repository as each lab is completed.
 
